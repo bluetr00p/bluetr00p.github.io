@@ -7,7 +7,7 @@ Filename: Files/MyFile/com.MyRepo.MyFile_0.0.1_iphoneos-arm.deb
 Size: 12345
 MD5sum: aee4bd941f8b4d9e39210c06c44fcb71
 Description: My Tweak is usefully ! So USE ut !
-Name: MyFile
+Name: TestFileTweak
 Author: TheAuthor
 Maintainer: TheMaintainer
 Depiction: http://github.com/iRamon/CydiaExampleRepo/repo/Files/myFile/index.html
