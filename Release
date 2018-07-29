@@ -1,8 +1,0 @@
-Origin: MyRepo
-Label: MyRepo
-Suite: stable
-Version: 1.0
-Codename: MyRepository
-Architectures: iphoneos-arm
-Components: main
-Description: MyRepo
