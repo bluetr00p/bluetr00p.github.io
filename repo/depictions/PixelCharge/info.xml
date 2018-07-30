@@ -1,0 +1,30 @@
+<package>
+	<id>com.simplellc.PixelCharge</id>
+	<name>PixelLock</name>
+	<version>1.0.0-3</version>
+	<compatibility>
+		<firmware>
+			<miniOS>7.0</miniOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>mobilesubstrate</package>
+	</dependencies>
+	<shortDescription>A Xen HTML theme based on the Google Pixel 2's lockscreen clock</shortDescription>
+	<screenshots>
+		<screenshot>
+			<description>This is PixelLock in action!!</description>
+			<image>screen.PNG</image>
+		</screenshot>				
+	</screenshots>
+	<changelog>
+		<change>Initial Release</change>
+	</changelog>
+	<links>
+		<link>
+			<name>/r/jailbreak</name>
+			<url>https://www.reddit.com/r/jailbreak</url>
+			<iconclass>fa fa-reddit</iconclass>
+		</link>
+	</links>
+</package>
