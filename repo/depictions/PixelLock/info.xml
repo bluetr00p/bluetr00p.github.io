@@ -1,7 +1,7 @@
 <package>
 	<id>com.simplellc.PixelLock</id>
 	<name>PixelLock</name>
-	<version>1.0.0</version>
+	<version>1.0.0-2</version>
 	<compatibility>
 		<firmware>
 			<miniOS>7.0</miniOS>
@@ -21,9 +21,8 @@
 		</screenshot>				
 	</screenshots>
 	<changelog>
-		<change>Second release</change>
-		<change>It has feature 1</change>
-		<change>It has feature 2</change>
+		<change>Fixed SBHTML error with file names</change>
+		<change>Initial Release</change>
 	</changelog>
 	<links>
 		<link>
