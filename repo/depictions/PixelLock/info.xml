@@ -1,7 +1,7 @@
 <package>
 	<id>com.simplellc.PixelLock</id>
 	<name>PixelLock</name>
-	<version>1.0.0-2</version>
+	<version>1.0.0-3</version>
 	<compatibility>
 		<firmware>
 			<miniOS>7.0</miniOS>
@@ -11,9 +11,6 @@
 		<package>mobilesubstrate</package>
 	</dependencies>
 	<shortDescription>A Xen HTML theme based on the Google Pixel 2's lockscreen clock</shortDescription>
-	<descriptionlist>
-		<description>This is an package will full depictions.</description>
-	</descriptionlist>
 	<screenshots>
 		<screenshot>
 			<description>This is PixelLock in action!!</description>
@@ -21,6 +18,8 @@
 		</screenshot>				
 	</screenshots>
 	<changelog>
+		<change>Added Config.js</change>
+		<change>Fixed Depiction</change>
 		<change>Fixed SBHTML error with file names</change>
 		<change>Initial Release</change>
 	</changelog>

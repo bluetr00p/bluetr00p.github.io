@@ -1,0 +1,2 @@
+scanpkg -dir /debs
+pause

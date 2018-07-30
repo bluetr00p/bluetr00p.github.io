@@ -1,5 +1,9 @@
 <changelog>
-<changes>
+	<changes>
+		<version>1.0.0-3</version>
+		<change>Added Config.js</change>
+	</changes>
+	<changes>
 		<version>1.0.0-2</version>
 		<change>Fixed Depictions</change>
 	</changes>
