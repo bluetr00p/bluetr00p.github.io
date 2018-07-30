@@ -26,3 +26,16 @@ Name: Old Package
 Author: Reposi3 <reposithree@gmail.com>
 Depiction: https://supermamon.github.io/Reposi3/depictions/?p=com.supermamon.oldpackage
 
+Package: com.simplellc.PixelLock
+Version: 1.0.0
+Section: Themes
+Maintainer: Bluetr00p <program4cool@gmail.com>
+Depends: firmware (>7.0), mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./debs/PixelLock.deb
+Size: 182050
+MD5sum: D33B4A545DC244CB042779CDEAC490F3
+Description: A Google Pixel 2 lock screen widget for xenhtml
+Name: PixelLock
+Author: Bluetr00p <program4cool@gmail>
+Depiction: https://bluetr00p.github.io/repo/depictions/?p=com.simplellc.PixelLock
