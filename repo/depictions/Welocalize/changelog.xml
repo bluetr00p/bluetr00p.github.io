@@ -1,4 +1,8 @@
 <changelog>
+<changes>
+		<version>1.0.0-2</version>
+		<change>Patch Fliza error</change>
+	</changes>
 	<changes>
 		<version>1.0.0</version>
 		<change>Initial Release</change>
