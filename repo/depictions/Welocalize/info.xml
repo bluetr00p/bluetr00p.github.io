@@ -8,9 +8,12 @@
 		</firmware>
 	</compatibility>
 	<dependencies>
-		<package>mobilesubstrate</package>
+		<package>Filza, AutoTouch, NewTerm2</package>
 	</dependencies>
 	<shortDescription>A tool list to preinstall all tools needed for Welocalize</shortDescription>
+	<descriptionlist>
+		<description>A tool list to preinstall all tools needed for Welocalize QA Lab. If you are not the Welocalize QA lab well this will not be interesting for you.</description>
+	</descriptionlist>
 	<screenshots>			
 	</screenshots>
 	<changelog>
