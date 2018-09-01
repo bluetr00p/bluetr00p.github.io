@@ -1,0 +1,26 @@
+<package>
+	<id>com.simple.welocalize.translate</id>
+	<name>Welocalize QA Tools</name>
+	<version>1.0.0</version>
+	<compatibility>
+		<firmware>
+			<miniOS>11.0</miniOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>mobilesubstrate</package>
+	</dependencies>
+	<shortDescription>A tool list to preinstall all tools needed for Welocalize</shortDescription>
+	<screenshots>			
+	</screenshots>
+	<changelog>
+		<change>Initial Release</change>
+	</changelog>
+	<links>
+		<link>
+			<name>/r/jailbreak</name>
+			<url>https://www.reddit.com/r/jailbreak</url>
+			<iconclass>fa fa-reddit</iconclass>
+		</link>
+	</links>
+</package>
