@@ -1,0 +1,33 @@
+<package>
+	<id>com.simple.VHStext</id>
+	<name>VHStext</name>
+	<version>1.0.0</version>
+	<compatibility>
+		<firmware>
+			<miniOS>7.0</miniOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>mobilesubstrate</package>
+	</dependencies>
+	<shortDescription>A Xen HTML theme based on a r/iosthemes request</shortDescription>
+	<screenshots>
+		<screenshot>
+			<description>This is VHStext in action!!</description>
+			<image>screen.PNG</image>
+		</screenshot>				
+	</screenshots>
+	<changelog>
+		<change>Added Config.js</change>
+		<change>Fixed Depiction</change>
+		<change>Fixed SBHTML error with file names</change>
+		<change>Initial Release</change>
+	</changelog>
+	<links>
+		<link>
+			<name>/r/iOSthemes</name>
+			<url>https://www.reddit.com/r/iOSthemes/</url>
+			<iconclass>fa fa-reddit</iconclass>
+		</link>
+	</links>
+</package>
